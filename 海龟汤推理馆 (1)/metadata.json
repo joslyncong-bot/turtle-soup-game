@@ -1,0 +1,5 @@
+{
+  "name": "海龟汤推理馆",
+  "description": "一个充满神秘氛围的海龟汤推理游戏，由 AI 担任主持人，支持语音输入。",
+  "requestFramePermissions": ["microphone"]
+}
